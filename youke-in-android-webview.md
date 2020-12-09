@@ -87,8 +87,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-//        String targetUrl = "file:///android_asset/up.html";
-        String targetUrl = "https://youke.co/";
+        String targetUrl = "file:///android_asset/youke.html";
         webview.loadUrl(targetUrl);
     }
 

@@ -1,6 +1,6 @@
 # 有客客服 Webview 接入演示（Android）
 
-核心文件位于：[app/src/main/java/com/hackplan/webviewexample/MainActivity.java](https://github.com/xinxiaotech/youke-webview-android-demo/blob/main/app/src/main/java/com/hackplan/webviewexample/MainActivity.java)
+核心文件位于：[app/src/main/java/com/hackplan/webviewexample/WebViewActivity.java](https://github.com/xinxiaotech/youke-webview-android-demo/blob/main/app/src/main/java/com/hackplan/webviewexample/WebViewActivity.java)
 
 ## 替换 projectKey
 
